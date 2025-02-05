@@ -1,0 +1,64 @@
+body {
+    height: 100vh;
+    background-image: url("./images/samuel-ferrara-1527pjeb6jg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-pics {
+    display: flex;
+    height: 25px;
+    width: 25px;
+}
+
+.google {
+    font-size: 100px;
+}
+
+.google-bar {
+    /*display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;*/
+    height: 50px;
+    width: 750px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.google-p {
+    padding: 10px 0px 0px 10px;
+}
+
+.plus-div {
+    height: 100px;
+    width: 120px;
+    margin-top: 20px;
+}
+
+.plus-sign {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plus {
+    height: 30px;
+    width: 30px;
+}
+
+.footer-left {
+    background-color: black;
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.footer-right {
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
